@@ -2,7 +2,7 @@
 # Flutter Credit Card UI - Tutorial 💳
 
 <p align="center">
-  <img src="https://doc-0k-14-docs.googleusercontent.com/docs/securesc/67bq8coq3813e3frgolj11g8qh5g74n7/uforaoomjbfav09m826ec58q7t2gf36t/1588436925000/06679227201420289065/06679227201420289065/1vZrJ19R1VsMceIJZ0hbY4cDV7Zmc5sYb?e=view&authuser=0">
+  <img src="https://drive.google.com/uc?export=view&id=1vZrJ19R1VsMceIJZ0hbY4cDV7Zmc5sYb">
 </p>
 
 
