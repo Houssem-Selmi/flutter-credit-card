@@ -33,8 +33,7 @@ Through the [Tutorial](https://medium.com/@selmi.hussem/practice-flutter-layout-
 >   git clone  [https://github.com/Houssem-Selmi/booki.git](https://github.com/Houssem-Selmi/booki.git)
 
 3. Access the source code folder 
-
-
+>  cd flutter-credit-card
 
 4. Run the app
 > flutter run
