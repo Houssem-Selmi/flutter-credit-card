@@ -6,7 +6,6 @@
   <img src="https://drive.google.com/uc?export=view&id=1vZrJ19R1VsMceIJZ0hbY4cDV7Zmc5sYb">
 </p>
 
-![enter image description here](https://drive.google.com/uc?export=view&id=1vZrJ19R1VsMceIJZ0hbY4cDV7Zmc5sYb)
 
 
 # About the project 
@@ -17,8 +16,6 @@ In this [Tutorial](https://medium.com/@selmi.hussem/practice-flutter-layout-conc
 <p align="center">
   <img src="https://drive.google.com/uc?export=view&id=1VD8oYUoN2kOWqhXE3JvagJDnXfhGaYPl">
 </p>
-
-![enter image description here](https://drive.google.com/uc?export=view&id=1VD8oYUoN2kOWqhXE3JvagJDnXfhGaYPl)
 
 Through the [Tutorial](https://medium.com/@selmi.hussem/practice-flutter-layout-concepts-by-creating-a-credit-card-widget-tutorial-1fbc8a9e36e), I will try to give you a clear comprehension of how to combine and nest Flutter widgets to achieve the desired layout.
 
@@ -47,8 +44,6 @@ Through the [Tutorial](https://medium.com/@selmi.hussem/practice-flutter-layout-
 <p align="center">
   <img src="https://drive.google.com/uc?export=view&id=1tA6nGHPer5WwhXJCwALbAiDpA8CMPiMB">
 </p>
-
-![enter image description here](https://drive.google.com/uc?export=view&id=1tA6nGHPer5WwhXJCwALbAiDpA8CMPiMB)
 
  
  ### Congrats 👏 🎉 
