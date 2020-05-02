@@ -1,6 +1,6 @@
 
   
-# Flutter Credit Card UI - Tutorial 💳
+# Flutter Credit Card UI 💳
 
 <p align="center">
   <img src="https://firebasestorage.googleapis.com/v0/b/booki-26bbf.appspot.com/o/banner_final.png?alt=media&token=b98db805-6c2b-4e87-841d-c07f98033d6b">
