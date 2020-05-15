@@ -1,4 +1,4 @@
-import 'package:credit_card_project/credit_cards_page.dart';
+import './credit_cards_page.dart';
 import 'package:flutter/material.dart';
 
 void main() => runApp(MyApp());

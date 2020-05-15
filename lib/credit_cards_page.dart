@@ -123,7 +123,7 @@ class CreditCardsPage extends StatelessWidget {
     );
   }
 
-// Build the bottom row containing the cardholder and expiration information
+// Build Column containing the cardholder and expiration information
   Column _buildDetailsBlock({@required String label, @required String value}) {
     return Column(
       crossAxisAlignment: CrossAxisAlignment.start,
