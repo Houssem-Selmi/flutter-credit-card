@@ -44,6 +44,12 @@ Through the [Tutorial](https://medium.com/@selmi.hussem/practice-flutter-layout-
   <img src="https://firebasestorage.googleapis.com/v0/b/booki-26bbf.appspot.com/o/overview_final.png?alt=media&token=6a62b88d-2feb-47ea-acdd-4d846377c348">
 </p>
 
+### Support the project 💪 (optional) 
+If you find this project useful, please support it for free by giving it a star ⭐. 
+Alternatively, here's another option to support the project: 
+
+<a href="https://www.buymeacoffee.com/hselmi"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=hselmi&button_colour=FFDD00&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=ffffff" /></a>
+
  
  ### Congrats 👏 🎉 
 Now, everything is set up correctly and you can start exploring the source code, and don’t forget to follow the [Tutorial](https://medium.com/@selmi.hussem/practice-flutter-layout-concepts-by-creating-a-credit-card-widget-tutorial-1fbc8a9e36e) for practicing. 
